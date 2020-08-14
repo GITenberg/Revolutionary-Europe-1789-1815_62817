@@ -1,0 +1,27 @@
+_repo: Revolutionary-Europe-1789-1815_62817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephens, H. Morse (Henry Morse)
+    alias: Stephens, Henry Morse
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '35077'
+    url: http://www.gutenberg.org/2009/agents/35077
+    wikipedia: https://en.wikipedia.org/wiki/H._Morse_Stephens
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Periods of European history; Period VII
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 1789-1815'
+- GITenberg
+title: Revolutionary Europe, 1789-1815
+url: http://www.gutenberg.org/ebooks/62817
